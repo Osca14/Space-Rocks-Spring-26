@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Obj_bullet","order":1,"path":"objects/Obj_bullet/Obj_bullet.yy",},
+    {"name":"Obj_button_Help","order":6,"path":"objects/Obj_button_Help/Obj_button_Help.yy",},
+    {"name":"Obj_Button_parent","order":4,"path":"objects/Obj_Button_parent/Obj_Button_parent.yy",},
+    {"name":"Obj_button_play","order":5,"path":"objects/Obj_button_play/Obj_button_play.yy",},
+    {"name":"Obj_button_Quit","order":7,"path":"objects/Obj_button_Quit/Obj_button_Quit.yy",},
+    {"name":"Obj_controls","order":8,"path":"objects/Obj_controls/Obj_controls.yy",},
+    {"name":"Obj_game","order":3,"path":"objects/Obj_game/Obj_game.yy",},
+    {"name":"Obj_powerup_spread","order":9,"path":"objects/Obj_powerup_spread/Obj_powerup_spread.yy",},
+    {"name":"Obj_Rock","order":2,"path":"objects/Obj_Rock/Obj_Rock.yy",},
+    {"name":"Rm_Menu","order":1,"path":"rooms/Rm_Menu/Rm_Menu.yy",},
+    {"name":"Spr_Button","order":4,"path":"sprites/Spr_Button/Spr_Button.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"Spr_powerup_spread","order":5,"path":"sprites/Spr_powerup_spread/Spr_powerup_spread.yy",},
+    {"name":"spr_rock_big","order":2,"path":"sprites/spr_rock_big/spr_rock_big.yy",},
+    {"name":"spr_rock_small","order":3,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
+  ],
+}
